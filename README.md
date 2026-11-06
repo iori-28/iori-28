@@ -15,8 +15,8 @@
 I'm an Informatics Engineering student and aspiring Full-Stack Developer who enjoys exploring technologies, solving problems, and turning ideas into functional applications.
 
 - 🎓 Currently studying Informatics Engineering at Universitas Buana Perjuangan Karawang.
-- 💻 Interested in Full-Stack Development, Mobile Development, and Game Development.
-- 🛠️ Mostly working with Laravel, JavaScript, PHP, Python, and C#.
+- 💻 Interested in Full-Stack Development, Mobile Development, and Web Development.
+- 🛠️ Mostly working with Rails, Laravel, JavaScript, PHP, Python, C#, and Angular.
 - 🎮 Enjoy experimenting with game development using Unity and RPG Maker.
 - 🐧 Currently exploring Ruby and Linux development environments.
 - 🌱 Always learning, building, and experimenting with something new.
@@ -25,11 +25,13 @@ I'm an Informatics Engineering student and aspiring Full-Stack Developer who enj
 
 **Languages**
 
+![Rails](https://img.shields.io/gem/dv/:gem/:version)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 **Frameworks & Technologies**
 
@@ -46,6 +48,7 @@ I'm an Informatics Engineering student and aspiring Full-Stack Developer who enj
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/docker/v/:user/:repo)
 
 ### `$ featured-projects`
 
